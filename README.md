@@ -96,4 +96,3 @@ npm run dev
 
 ---
 
-*Built with ❤️ (and a lot of coffee) for the [Hackathon Name] Hackathon.*
