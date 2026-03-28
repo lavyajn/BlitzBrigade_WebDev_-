@@ -50,7 +50,7 @@ Due to hackathon constraints, **Rta** is built as a High-Fidelity Simulated Prot
 |-------|-------|
 | **Frontend** | React (Vite), Tailwind CSS, Framer Motion, Recharts |
 | **Backend** | Node.js, Express.js |
-| **AI Engine** | Google Gemini 1.5 Flash API |
+| **AI Engine** | Google Gemini 2.5 Flash API |
 
 ---
 
